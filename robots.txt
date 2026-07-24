@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pinellasparkrestoration.com/sitemap.xml
